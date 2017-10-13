@@ -2,4 +2,4 @@
 - name: downloading the file
   get_url: 
     url: https://github.com/ansarpalakottal/testJob/blob/master/Sublime%20Text%20Build%203143%20x64.zip
-    dest: /tmp/ansar/
+    dest: /tmp/ansar
